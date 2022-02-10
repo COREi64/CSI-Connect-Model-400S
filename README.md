@@ -11,3 +11,4 @@ Features of this board (besides those mentioned above) include the following:
 - Heatsinked onboard power regulator
 - Dual IEC ports for connection to computer and additional IEC devices
 - Gold plated IEEE edge connector
+![sm_2152 2021_08_12](https://user-images.githubusercontent.com/37495485/153335184-007f325f-c254-4bcc-9a37-af66e62e9c5e.JPG)
