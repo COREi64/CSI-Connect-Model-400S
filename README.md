@@ -12,4 +12,6 @@ Features of this board (besides those mentioned above) include the following:
 - Dual IEC ports for connection to computer and additional IEC devices
 - Gold plated IEEE edge connector
 
+Have the PCB manufactured at PCBWay, through their shared projects.  Link is here: https://www.pcbway.com/project/shareproject/CSI_Connect_Model_400S_32c38f85.html
+
 ![sm_2152 2021_08_12](https://user-images.githubusercontent.com/37495485/153335184-007f325f-c254-4bcc-9a37-af66e62e9c5e.JPG)
